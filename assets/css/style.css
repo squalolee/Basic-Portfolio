@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+    
+  }
+body {
+    padding: 0;
+    margin: 0;
+    color: #777777;
+    
+    background-image: url(/assets/images/oriental-tiles.png);
+}
+
+.wrapper {
+    width: 960px;
+    padding: 0px;
+    margin: 0 auto;
+
+}
+
+
+
+header {
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    width: 960;
+
+
+}
+
+h1 {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 300px;
+    Height: 50px;
+    color: #ffffff;
+    margin: 0px;
+    float: left;
+
+}
+
+footer {
+    padding: 0;
+    margin: 0;
+    background-color: #666666;
+    float: left;
+    
+
+}
+
+.link {
+    float: right;
+    width: 75px;
+
+}
+
+
+
+.container {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    width: 960px;
+    padding: 10px;
+    margin: 0px;
+    font-family: Arial, 'Helvetica Neu', Helvetica, sans-serif;
+    
+    float: left;
+}
+
+#indexImage {
+    width: 200px;
+    height: 200px;
+    
+}
