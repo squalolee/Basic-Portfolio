@@ -64,12 +64,27 @@ footer {
     padding: 10px;
     margin: 0px;
     font-family: Arial, 'Helvetica Neu', Helvetica, sans-serif;
-    
+
     float: left;
 }
 
 #indexImage {
     width: 200px;
     height: 200px;
+    
+}
+
+.portfolioImage {
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+
+    float: left;
+
+
+}
+
+.portfolioLabel {
+    float: left;
     
 }
